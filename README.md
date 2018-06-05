@@ -1,0 +1,1 @@
+![screenshot](fullscreen.png)
